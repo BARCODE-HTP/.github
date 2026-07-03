@@ -38,6 +38,6 @@
 
 ### About the BARCODE Project
 
-BARCODE is an open-access software suite enabling the high-throughput screening of dynamically restructuring soft materials, quantifying biomaterial activity without extensive programming requirements.
+BARCODE is an open-access crowd-sourced software suite enabling the high-throughput screening of dynamically restructuring soft materials, and quantifying biomaterial activity without extensive programming requirements.
 
-We welcome contributions! Please review our [contribution guidelines](https://github.com/BARCODE-HTP/barcode/blob/main/CONTRIBUTING.md) to get involved.
+We welcome contributions!
