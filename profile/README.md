@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://path-to-your-hosted-logo.png/image_0.png" alt="BARCODE Logo" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/b56c4752-9857-46ea-906b-8af985122d86" width = "70%" />
 </p>
 
-<h1 align="center">BARCODE </h1>
-<p align="center">Biomaterial Activity Readouts to Categorize, Optimize, Design and Engineer | high throughput screening software to characterize dynamically restructuring soft materials </p>
+<h1 align="center">high throughput screening software to characterize dynamically restructuring soft materials </h1>
 
 ---
 
