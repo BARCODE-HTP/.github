@@ -16,9 +16,9 @@
 
 | Release | Features & Notes | Links |
 | :--- | :--- | :--- |
-| **v2.0** | **Major Update:** Additional metrics, user-friendly GUI, post-processing software, and performance improvements. | [Download Core](https://github.com/BARCODE-HTP/barcode/releases/v2.0), [v2.0 Tutorials](https://github.com/BARCODE-HTP/tutorials/tree/v2.0), [Full Notes](https://github.com/BARCODE-HTP/barcode/blob/main/RELEASES.md#v20) |
-| **v1.1** | **Patch Update:** Refined optical flow visualization, stability fixes, and updated dependency support. | [Download Core](https://github.com/BARCODE-HTP/barcode/releases/v1.1), [Patch Notes](https://github.com/BARCODE-HTP/barcode/blob/main/RELEASES.md#v11) |
-| **v1.0** | **Initial Public Release:** Baseline BARCODE pipeline, core models, and example datasets. | [Download Core](https://github.com/BARCODE-HTP/barcode/releases/v1.0), [Initial Notes](https://github.com/BARCODE-HTP/barcode/blob/main/RELEASES.md#v10) |
+| **v2.0** | **Major Update:** Additional metrics, user-friendly GUI, post-processing software, and performance improvements. | [Download Core](https://github.com/BARCODE-HTP/barcode/releases/v2.0)|
+| **v1.1** | **Patch Update:** Refined optical flow visualization, stability fixes, and updated dependency support. | [Download Core](https://github.com/BARCODE-HTP/barcode/releases/v1.1) |
+| **v1.0** | **Initial Public Release:** Baseline BARCODE pipeline and algorithms. | [Download Core](https://github.com/BARCODE-HTP/barcode/releases/v1.0)|
 
 ## 🚀 Quick Links & Resources
 
