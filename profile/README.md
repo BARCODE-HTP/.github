@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b56c4752-9857-46ea-906b-8af985122d86" width = "70%" />
+  <img width="3497" height="1407" alt="Image" src="https://github.com/user-attachments/assets/5c786ffa-976b-455b-85d2-ad61169051e0" />
 </p>
 
 <h1 align="center">high throughput screening software to characterize dynamically restructuring soft materials </h1>
